@@ -1,0 +1,2 @@
+**ArcGIS Data Extractor with Dual Authentication Support**  
+A specialized web scraping tool for an ArcGIS-powered website, featuring support for dual-layer authentication: standard login and Microsoft Office authentication. This repository enables secure login, retrieves the necessary API tokens, and allows for comprehensive data extraction across all available layers, providing an efficient solution for accessing ArcGIS data.
